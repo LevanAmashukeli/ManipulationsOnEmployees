@@ -1,7 +1,0 @@
-C:\Users\Vladimer424\Desktop\varianti\Исходники Модуль 2\ManipulationsOnEmployees\bin\Debug\ManipulationsOnEmployees.exe.config
-C:\Users\Vladimer424\Desktop\varianti\Исходники Модуль 2\ManipulationsOnEmployees\bin\Debug\ManipulationsOnEmployees.exe
-C:\Users\Vladimer424\Desktop\varianti\Исходники Модуль 2\ManipulationsOnEmployees\bin\Debug\ManipulationsOnEmployees.pdb
-C:\Users\Vladimer424\Desktop\varianti\Исходники Модуль 2\ManipulationsOnEmployees\obj\Debug\ManipulationsOnEmployees.csprojAssemblyReference.cache
-C:\Users\Vladimer424\Desktop\varianti\Исходники Модуль 2\ManipulationsOnEmployees\obj\Debug\ManipulationsOnEmployees.csproj.CoreCompileInputs.cache
-C:\Users\Vladimer424\Desktop\varianti\Исходники Модуль 2\ManipulationsOnEmployees\obj\Debug\ManipulationsOnEmployees.exe
-C:\Users\Vladimer424\Desktop\varianti\Исходники Модуль 2\ManipulationsOnEmployees\obj\Debug\ManipulationsOnEmployees.pdb
